@@ -12,3 +12,4 @@ This application uses Express, MYSQL2, Sequelize, and dotenv.
 
 ## Video Tutorial
 
+https://app.castify.com/view/991ea7e6-0233-4189-a681-bb733a48061f
